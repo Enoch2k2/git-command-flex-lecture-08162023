@@ -1,4 +1,4 @@
-# Git Review SEssion - 08162023
+# Git Review Session - 08162023
 
 A review session about git commands!
 
